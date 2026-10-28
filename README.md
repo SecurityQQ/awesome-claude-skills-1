@@ -169,6 +169,7 @@
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [how-to-make-ai-video](https://github.com/vargHQ/skills/tree/main/how-to-make-ai-video) - How to make any AI video: find the skill, the options to show and the steps. No key needed.
 
 
 ## 🏥 Health & Life Sciences
